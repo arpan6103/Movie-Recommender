@@ -1,1 +1,1 @@
-# Stocks-PrIce-Prediction
+# Movie Recommender using ML
